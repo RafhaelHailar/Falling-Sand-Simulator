@@ -1,0 +1,22 @@
+{
+  "name": "fallingsand",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "@types/p5": "^1.7.6",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.9"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "p5": "^1.11.0"
+  }
+}
