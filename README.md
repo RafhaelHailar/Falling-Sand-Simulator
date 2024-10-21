@@ -23,3 +23,7 @@ Run in Development:
 ```bash
 npm run dev
 ```
+
+### Image
+
+![alt text](image.png)
